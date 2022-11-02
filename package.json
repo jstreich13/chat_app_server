@@ -2,8 +2,8 @@
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Tom Nagle",
-  "license": "MIT",
+  "author": "Jeremy Streich",
+  "license": "None",
   "scripts": {
     "dev": "nodemon --config nodemon.json src/app.ts"
   },
